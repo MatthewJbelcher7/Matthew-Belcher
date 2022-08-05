@@ -3,7 +3,17 @@ h1  {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
+
 img {
-  
-  float: right;
+    float: right;
+}
+
+.Sidebar {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 13
+  overflow-x: hidden;
+  padding-top: 25%;
+  font-size: 400%
 }
