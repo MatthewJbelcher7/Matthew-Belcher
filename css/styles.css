@@ -17,3 +17,21 @@ img {
   padding-top: 25%;
   font-size: 400%
 }
+
+.AboutPhotos {
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+  border: solid gray;
+  border-width: 3px;
+  /* margin: 10px; */
+  background-color: cadetblue;
+  float: left;
+}
+
+.AboutPhotos img {
+  margin:auto;
+  width: 100%;
+  height:auto;
+  display: block;
+}
