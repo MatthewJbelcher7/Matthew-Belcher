@@ -56,18 +56,6 @@ img {
   position: fixed;
   z-index: 13;
   overflow-x: hidden;
-  padding-top: 30%;
+  padding-top: 0%;
   font-size: 400%;
-}
-
-.Project-List {
-  width: auto;
-  align-items: Center;
-  text-align: center;
-  box-sizing: border-box;
-  border-width: 1px;
-  background-color: rgb(97, 97, 97);
-  float: left;
-  font-size: 200%;
-
 }
