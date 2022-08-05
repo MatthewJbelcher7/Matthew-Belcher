@@ -1,5 +1,4 @@
 h1  {
-  float: right;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -19,13 +18,12 @@ img {
 }
 
 .AboutPhotos {
-  width: 100%;
+  width: auto;
   text-align: center;
   box-sizing: border-box;
   border: solid gray;
   border-width: 3px;
-  /* margin: 10px; */
-  background-color: cadetblue;
+  background-color: rgb(255, 145, 0);
   float: left;
 }
 
@@ -34,4 +32,11 @@ img {
   width: 100%;
   height:auto;
   display: block;
+}
+
+.Narem img {
+  margin:auto;
+  width: 50%;
+  height:auto;
+  display: block
 }
