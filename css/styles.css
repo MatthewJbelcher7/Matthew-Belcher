@@ -25,18 +25,26 @@ img {
   border-width: 3px;
   background-color: rgb(255, 145, 0);
   float: left;
+  font-size: 250%;
 }
 
 .AboutPhotos img {
   margin:auto;
-  width: 100%;
+  width: 50%;
   height:auto;
   display: block;
 }
 
 .Narem img {
   margin:auto;
-  width: 50%;
+  width: 20%;
+  height:auto;
+  display: block
+}
+
+.Intrests img {
+  margin:auto;
+  width: 40%;
   height:auto;
   display: block
 }
