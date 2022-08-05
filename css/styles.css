@@ -14,7 +14,7 @@ img {
   z-index: 13;
   overflow-x: hidden;
   padding-top: 25%;
-  font-size: 400%;
+  font-size: 375%;
 }
 
 .AboutPhotos {
@@ -47,4 +47,15 @@ img {
   width: 40%;
   height:auto;
   display: block
+}
+
+.HOME {
+  float: right;
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 13;
+  overflow-x: hidden;
+  padding-top: 0%;
+  font-size: 400%;
 }
