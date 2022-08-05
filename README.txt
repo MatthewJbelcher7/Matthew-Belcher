@@ -25,6 +25,7 @@ _This is demonstration of what we have learned in week on and a location to call
 
 * _The Home icon currently doesnt populate in "About-me.HTML"_
 * _There is a fourth link on "Matthew.Belcher.HTML" that says "something" that currently leads no where that I have left in intentionally_
+* _Professional.HTML page has much work to be done and is feeling disorganized and skinny currently_
 
 
 ## License
