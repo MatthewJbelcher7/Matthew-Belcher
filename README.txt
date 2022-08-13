@@ -2,7 +2,7 @@
 
 #### By _Matthew_Belcher_
 
-#### _A Begining HTML for all of my projects_
+#### _A Beginning HTML for all of my projects_
 
 ## Technologies Used
 
