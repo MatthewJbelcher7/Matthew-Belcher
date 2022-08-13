@@ -18,13 +18,13 @@ _This is demonstration of what we have learned in week on and a location to call
 ## Setup/Installation Requirements
 
 * _Clone this repository to your desktop_
-* _Open Matthew.belcher.HTML in your browser_
+* _Open Matthew.Belcher.html in your browser_
 * _Navigate using buttons or back arrows in browser_
 
 ## Known Bugs
 
 * _The Home icon currently doesnt populate in "About-me.HTML"_
-* _There is a fourth link on "Matthew.Belcher.HTML" that says "something" that currently leads no where that I have left in intentionally_
+* _There is a fourth link on "Matthew.Belcher.html" that says "something" that currently leads no where that I have left in intentionally_
 
 
 ## License
